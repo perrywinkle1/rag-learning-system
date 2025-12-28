@@ -28,6 +28,9 @@ anthropic>=0.8.0
 kafka-python>=2.0.2
 aiokafka>=0.9.0
 
+# Cache
+redis>=5.0.0
+
 # Utilities
 python-dotenv>=1.0.0
 httpx>=0.25.0
